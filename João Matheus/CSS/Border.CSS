@@ -1,0 +1,10 @@
+h1{
+    border-top:5px dashed lawngreen ;
+    border-right:10px dotted darkorchid ;
+    border-bottom:20px solid slateblue ;
+    border-left:5px double black ;
+}
+h2{
+    border:5px solid darkorchid ;
+    border-radius:10% ;
+}
